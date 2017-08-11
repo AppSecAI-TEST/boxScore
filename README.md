@@ -1,6 +1,6 @@
 # boxScore
 
-![captura](https://user-images.githubusercontent.com/25128995/29202645-d033a240-7e2f-11e7-8d18-b3fd6d9161b6.PNG)
+![captura](https://user-images.githubusercontent.com/25128995/29202821-4c74c752-7e31-11e7-8f9b-8da17e61e4cb.PNG)
 
 <h2>Layout</h2>
 <p>Uso de Relative y Linear, podras ver como anidarlos y como se usan de manera básica</p>
